@@ -10,7 +10,7 @@ package Vista;
  * @author sqdan
  */
 public class Menu {
-    
+    //Crea el constructor del Menú Principal
     public Menu()
     {
         
