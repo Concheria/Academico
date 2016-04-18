@@ -5,10 +5,20 @@
  */
 package Modelo.Archivos;
 
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+
 /**
  *
  * @author sqdan
  */
-public class ArchivoEstudiantes {
+public class ArchivoEstudiantes 
+{
+    ObjectInputStream archivoEntrada;
+    ObjectOutputStream archivoSalida;
     
+    public ArchivoEstudiantes()
+    {
+        
+    }
 }
