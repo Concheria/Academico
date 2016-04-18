@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Autor: Daniel Somarribas Quirós
+${licensePrefix}b57072
+${licensePrefix}2016
+<#if licenseLast??>
+${licenseLast}
+</#if>
